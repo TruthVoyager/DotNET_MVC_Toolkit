@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TidyData", "TidyData\TidyData.csproj", "{9B8253C3-A1F6-4C4A-96FF-D312E0045CAD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tidey.web", "Tidey.web\Tidey.web.csproj", "{E1C25204-6C26-4A53-A341-A876F605A3AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B8253C3-A1F6-4C4A-96FF-D312E0045CAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B8253C3-A1F6-4C4A-96FF-D312E0045CAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B8253C3-A1F6-4C4A-96FF-D312E0045CAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B8253C3-A1F6-4C4A-96FF-D312E0045CAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1C25204-6C26-4A53-A341-A876F605A3AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1C25204-6C26-4A53-A341-A876F605A3AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1C25204-6C26-4A53-A341-A876F605A3AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1C25204-6C26-4A53-A341-A876F605A3AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D013A9DD-20D5-4227-B473-36F7CFB3DE31}
+	EndGlobalSection
+EndGlobal
